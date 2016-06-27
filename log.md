@@ -10,7 +10,7 @@ ________________________________
 3. Laravel Fumbling
 ..* Install Composer?
 ..* ??
-..* That will probably be it for my hour
+..* That will probably be it for my evening
 
 **Today's Progress**: 
 1. I cloned my first forked repo...this one! yay! 
@@ -23,3 +23,9 @@ ________________________________
 
 ________________________________
 
+## Day 100: October 5, 2016
+### Milestone Dates
+
+| 0%| 25%| 50%| 75%|
+| -------------:|:-------------:| -----:|-----:|
+| June 27 | July 22 | August 16 | September 10 |
