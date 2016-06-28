@@ -32,6 +32,10 @@ ________________________________
 |---|---|---|---
 |June 27|July 22|August 16|September 10
 
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
