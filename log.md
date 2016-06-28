@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
-## Day 1 June 27 | Day 100 October 5________________________________
+## Day 1 June 27 /\ Day 100 October 5
+
+________________________________
 
 ### Day 1: June 27, 2016
 ##### what am i dooooooing
