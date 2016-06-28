@@ -28,9 +28,9 @@ ________________________________
 ## Day 100: October 5, 2016
 ### Milestone Dates
 
-|0%|   25%	|50%|75%|
-|---	|---	|---	|---	|
-|June 27|July 22|August 16|September 10|
+|0%|25%|50%|75%|
+|---|---|---|---
+|June 27|July 22|August 16|September 10
 
 First Header | Second Header
 ------------ | -------------
