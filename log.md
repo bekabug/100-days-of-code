@@ -40,6 +40,7 @@ ________________________________
 ________________________________
 
 ### Reading List
+* [PHP Pandas (PHP!7)] (https://leanpub.com/php-pandas)
 * [Code Smart] (https://leanpub.com/codesmart)
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1467075452&sr=8-1&keywords=clean+code)
 * [Modern PHP] (https://www.amazon.com/Modern-PHP-Features-Good-Practices-ebook/dp/B00TKVLL26/ref=sr_1_2?ie=UTF8&qid=1467075575&sr=8-2)
