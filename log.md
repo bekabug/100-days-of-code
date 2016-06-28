@@ -15,7 +15,7 @@ ________________________________
 
 **Today's Progress**: 
 
-1. I cloned my first forked repo...this one! yay! 
+1. I cloned my first forked repo...this one! yay!
 2.
 3.
 
@@ -31,3 +31,8 @@ ________________________________
 |0%|   25%	|50%|75%|
 |---	|---	|---	|---	|
 |June 27|July 22|August 16|September 10|
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
