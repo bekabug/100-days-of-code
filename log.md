@@ -31,12 +31,3 @@ ________________________________
 |0%|25%|50%|75%
 |---|---|---|---
 |June 27|July 22|August 16|September 10
-
-|   	|   	|   	|   	|   	|
-|---	|---	|---	|---	|---	|
-|   	|   	|   	|   	|   	|
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
