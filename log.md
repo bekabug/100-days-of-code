@@ -20,13 +20,13 @@
 3. I'm now pretty well wiped out and I did no coding whatsoever.
 4. Installed XAMPP - may regret later.
 5. Installed Composer
-6.  
+6. Started Laravel project, new git repo \o/
 
 **Thoughts:** 
 Found some books that I'm eager to read. I'm going to have to get a MBP. This Dell with its broken trackpad is making me miserable.
 
 **Link to work:** 
-none yet
+https://github.com/bekabug/eat-something-dammit
 ________________________________
 
 ### Milestone Dates
