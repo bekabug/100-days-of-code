@@ -8,9 +8,9 @@
 
 - [x] Fork the 100 Days of Code repo
 - [x] Markdown crash course
-- [] Install PHP
-- [] Install mySQL
-- [] Install Composer
+- [x] Install PHP
+- [x] Install mySQL
+- [x] Install Composer
 - [] Start Laravel project
 
 **Today's Progress**: 
@@ -18,8 +18,9 @@
 1. I cloned my first forked repo...this one! yay! Had to get help from my codeschool FB group ^_^;
 2. Getting acquainted with markdown took more time than I thought...
 3. I'm now pretty well wiped out and I did no coding whatsoever.
-4. Installing XAMPP - may regret later.
-5. 
+4. Installed XAMPP - may regret later.
+5. Installed Composer
+6.  
 
 **Thoughts:** 
 Found some books that I'm eager to read. I'm going to have to get a MBP. This Dell with its broken trackpad is making me miserable.
