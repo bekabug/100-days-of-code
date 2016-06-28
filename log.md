@@ -13,7 +13,7 @@ ________________________________
 - [x] Install PHP
 - [x] Install mySQL
 - [x] Install Composer
-- [] Start Laravel project
+- [x] Start Laravel project
 
 **Today's Progress**: 
 
