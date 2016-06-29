@@ -2,7 +2,7 @@
 ## Day 1 June 27 /\ Day 100 October 5
 ________________________________
 
-### Day 1: June 27, 2016
+### Day 2: June 28, 2016
 ##### what am i dooooooing
 
 **Today's Progress**: 
