@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 ## Day 1 June 27 /\ Day 100 October 5
+________________________________
 
+### Day 1: June 27, 2016
+##### what am i dooooooing
+
+**Today's Progress**: 
+Lots of reading. I have no idea what I'm doing with Laravel. Time for laracasts and ...probably a book.
 ________________________________
 
 ### Day 1: June 27, 2016
@@ -17,7 +23,7 @@ ________________________________
 
 **Today's Progress**: 
 
-1. I cloned my first forked repo...this one! yay! Had to get help from my codeschool FB group ^_^;
+1. I cloned my first forked repo...this one! yay! Had to get help from my codecamp FB group ^_^;
 2. Getting acquainted with markdown took more time than I thought...
 3. I'm now pretty well wiped out and I did no coding whatsoever.
 4. Installed XAMPP - may regret later.
