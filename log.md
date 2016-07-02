@@ -4,7 +4,7 @@
 ________________________________
 
 ### Day 5: July 1, 2016
-##### i suck ^_^;;
+##### i am impatient
 
 **Today's Progress**: 
 More of the same. No actual coding going on today. Trying to figure out if I should finance a new Mac but the Mac buying guide says stop, do not. MacBook Pro is due an upgrade...possibly in September. 
@@ -12,7 +12,7 @@ More of the same. No actual coding going on today. Trying to figure out if I sho
 ________________________________
 
 ### Day 4: June 30, 2016
-##### i suck ^_^;;
+##### i am bored
 
 **Today's Progress**: 
 I'm starting all the way over with some PHP for Beginners and it's boring me TO DEATH. 
