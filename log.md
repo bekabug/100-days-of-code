@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 ## Day 1 June 27 /\ Day 100 October 5
+
+________________________________
+
+### Day 5: July 1, 2016
+##### i suck ^_^;;
+
+**Today's Progress**: 
+More of the same. No actual coding going on today. Trying to figure out if I should finance a new Mac but the Mac buying guide says stop, do not. MacBook Pro is due an upgrade...possibly in September. 
+
+________________________________
+
+### Day 4: June 30, 2016
+##### i suck ^_^;;
+
+**Today's Progress**: 
+I'm starting all the way over with some PHP for Beginners and it's boring me TO DEATH. 
+
+https://laracasts.com/series/php-for-beginners/
+________________________________
+
+### Day 3: June 29, 2016
+##### i suck ^_^;;
+
+**Today's Progress**: 
+Watching Laracasts. I followed the tutorial exactly...huge error page. I don't know what I'm doing wrong. Aside: This PC I'm using is crushing my soul. The display is so bad. Tried using it on a work project and the color quality is complete shit. Light pink? Double check it on my cinema display and it's actually almost orange. Dell economy displays are the worst.
+
 ________________________________
 
 ### Day 2: June 28, 2016
