@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 ## Day 1 June 27 /\ Day 100 October 5
+________________________________
+
+### Day 6: July 2, 2016
+##### i am getting back to basics
+
+**Today's Progress**: 
+Stepping way back. Completed 60 challenges on FreeCodeCamp (101 total). Honestly that first set of modules was so basic it was mind numbing. I made some dumb mistakes because I couldn't focus. Slogged through and I can't wait to get started in on the Javascript modules. I don't know how much time I spent on this...it was more than an hour. :fist:
 
 ________________________________
 
