@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 ## Day 1 June 27 /\ Day 100 October 5
+
+________________________________
+
+### Day 7: July 3, 2016
+##### i am loving laracasts
+
+**Today's Progress**: 
+Watched all available [PHP for Beginners] (https://laracasts.com/series/php-for-beginners) on Laracasts (6 videos, approx 45 min). I'd not call myself a beginner but I did learn a few things of shorthand that I didn't know so starting at the basics is going to be good for me. :sweat_smile:
+
+Did some more hacking on Atom. Explored more packages. Love it. Pigments. Yay. 
+
+One Week streak! 
 ________________________________
 
 ### Day 6: July 2, 2016
