@@ -7,7 +7,7 @@ ________________________________
 ##### Variables
 
 **Today's Progress**:
-More super basic stuff. Grinding basic php-for-beginners. A little more FreeCodeCamp. Grinding basics. 
+More super basic stuff. Grinding basic php-for-beginners. A little more FreeCodeCamp.
 
 Link to work:
 http://localhost/100-days-of-code/laraexercises/index.php?name=bekabug
