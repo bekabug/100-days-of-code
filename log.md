@@ -3,21 +3,56 @@
 
 ________________________________
 
+### Day 10: July 7, 2016
+##### Variables
+
+**Today's Progress**:
+More super basic stuff. Grinding basic php-for-beginners. A little more FreeCodeCamp. Grinding basics. 
+
+Link to work:
+http://localhost/100-days-of-code/laraexercises/index.php?name=bekabug
+
+________________________________
+
+### Day 10: July 6, 2016
+##### i am back on the wagon
+
+**Today's Progress**:
+I cancelled Apple Music and got Laracasts. I'm so sleepy today and it's storming. Rewatching [PHP for Beginners] (https://laracasts.com/series/php-for-beginners) again for the EXP
+
+________________________________
+
+### Day 9: July 5, 2016
+##### i did nothing
+
+**Today's Progress**:
+Did exactly nothing. Spent (wasted?) a lot of time trying to fix the purple dell. Bad PSU adapter.
+
+________________________________
+
+### Day 8: July 4, 2016
+##### i am kind of a slacker
+
+**Today's Progress**:
+I did very little today. I did a little FreeCodeCamp
+
+________________________________
+
 ### Day 7: July 3, 2016
 ##### i am loving laracasts
 
-**Today's Progress**: 
+**Today's Progress**:
 Watched all available [PHP for Beginners] (https://laracasts.com/series/php-for-beginners) on Laracasts (6 videos, approx 45 min). I'd not call myself a beginner but I did learn a few things of shorthand that I didn't know so starting at the basics is going to be good for me. :sweat_smile:
 
-Did some more hacking on Atom. Explored more packages. Love it. Pigments. Yay. 
+Did some more hacking on Atom. Explored more packages. Love it. Pigments. Yay.
 
-One Week streak! 
+One Week streak!
 ________________________________
 
 ### Day 6: July 2, 2016
 ##### i am getting back to basics
 
-**Today's Progress**: 
+**Today's Progress**:
 Stepping way back. Completed 60 challenges on FreeCodeCamp (101 total). Honestly that first set of modules was so basic it was mind numbing. I made some dumb mistakes because I couldn't focus. Slogged through and I can't wait to get started in on the Javascript modules. I don't know how much time I spent on this...it was more than an hour. :fist:
 
 ________________________________
@@ -25,16 +60,16 @@ ________________________________
 ### Day 5: July 1, 2016
 ##### i am impatient
 
-**Today's Progress**: 
-More of the same. No actual coding going on today. Trying to figure out if I should finance a new Mac but the Mac buying guide says stop, do not. MacBook Pro is due an upgrade...possibly in September. 
+**Today's Progress**:
+More of the same. No actual coding going on today. Trying to figure out if I should finance a new Mac but the Mac buying guide says stop, do not. MacBook Pro is due an upgrade...possibly in September.
 
 ________________________________
 
 ### Day 4: June 30, 2016
 ##### i am bored
 
-**Today's Progress**: 
-I'm starting all the way over with some PHP for Beginners and it's boring me TO DEATH. 
+**Today's Progress**:
+I'm starting all the way over with some PHP for Beginners and it's boring me TO DEATH.
 
 https://laracasts.com/series/php-for-beginners/
 ________________________________
@@ -42,7 +77,7 @@ ________________________________
 ### Day 3: June 29, 2016
 ##### i suck ^_^;;
 
-**Today's Progress**: 
+**Today's Progress**:
 Watching Laracasts. I followed the tutorial exactly...huge error page. I don't know what I'm doing wrong. Aside: This PC I'm using is crushing my soul. The display is so bad. Tried using it on a work project and the color quality is complete shit. Light pink? Double check it on my cinema display and it's actually almost orange. Dell economy displays are the worst.
 
 ________________________________
@@ -50,14 +85,14 @@ ________________________________
 ### Day 2: June 28, 2016
 ##### what am i dooooooing
 
-**Today's Progress**: 
+**Today's Progress**:
 Lots of reading. I have no idea what I'm doing with Laravel. Time for laracasts and ...probably a book.
 ________________________________
 
 ### Day 1: June 27, 2016
 ##### what am i dooooooing
 
-**Today's Agenda**: 
+**Today's Agenda**:
 
 - [x] Fork the 100 Days of Code repo
 - [x] Markdown crash course
@@ -66,7 +101,7 @@ ________________________________
 - [x] Install Composer
 - [x] Start Laravel project
 
-**Today's Progress**: 
+**Today's Progress**:
 
 1. I cloned my first forked repo...this one! yay! Had to get help from my codecamp FB group ^_^;
 2. Getting acquainted with markdown took more time than I thought...
@@ -75,10 +110,10 @@ ________________________________
 5. Installed Composer
 6. Started Laravel project, new git repo \o/
 
-**Thoughts:** 
+**Thoughts:**
 Found some books that I'm eager to read. I'm going to have to get a MBP. This Dell with its broken trackpad is making me miserable.
 
-**Link to work:** 
+**Link to work:**
 https://github.com/bekabug/eat-something-dammit
 ________________________________
 
