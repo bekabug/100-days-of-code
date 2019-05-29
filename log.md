@@ -1,4 +1,14 @@
-# 100 Days Of Python - Log
+# 100 Days Of Pythonmv - Log
+
+
+### Day 2: Tuesday May 28, 2019
+##### Date Sucks.
+
+**Today's Progress**: i'm struggling with the date. i'm dumb.
+
+**Thoughts:** why is it so hard to spit out a formatted date string? :C
+
+[wakatime](https://wakatime.com/dashboard/day?date=2019-05-28)
 
 ### Day 0: Monday May 27, 2019
 ##### It's memorial Day and I was off. LET'S CODE 👩‍💻
