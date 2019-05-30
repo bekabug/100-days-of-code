@@ -9,6 +9,7 @@
 **Thoughts:** the date. so frustrating. it works...can't say I have a great understanding of it. I'm sleep deprived and in pain.
 
 [wakatime](https://wakatime.com/dashboard/day?date=2019-05-29)
+
 [current_date_time.py](https://github.com/bekabug/learningpython/blob/master/current_date_time.py)
 
 ### Day 2: Tuesday May 28, 2019
@@ -29,5 +30,7 @@
 
 **Links to work:** 
 [wakatime](https://wakatime.com/dashboard/day?date=2019-05-27)
+
 [twinkle](https://github.com/bekabug/learningpython/blob/master/twinkle.py)
+
 [python_version](https://github.com/bekabug/learningpython/blob/master/python_version.py)
