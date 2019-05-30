@@ -1,4 +1,4 @@
-# 100 Days Of Pythonmv - Log
+# 100 Days Of Code, Round 2 - Log
 
 
 ### Day 3: May 29, 2019
