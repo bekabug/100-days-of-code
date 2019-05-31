@@ -8,9 +8,9 @@
 
 **Thoughts:** both of these went really fast 😄
 
-[wakatime](https://wakatime.com/dashboard/day?date=2019-05-30) 
-[radius.py](https://github.com/bekabug/learningpython/blob/master/radius.py) 
-[name_scramble.py](https://github.com/bekabug/learningpython/blob/master/name_scramble.py) 
+[wakatime](https://wakatime.com/dashboard/day?date=2019-05-30)<br>
+[radius.py](https://github.com/bekabug/learningpython/blob/master/radius.py)<br>
+[name_scramble.py](https://github.com/bekabug/learningpython/blob/master/name_scramble.py)<br>
 
 
 ### Day 3: May 29, 2019
@@ -20,7 +20,7 @@
 
 **Thoughts:** the date. so frustrating. it works...can't say I have a great understanding of it. I'm sleep deprived and in pain.
 
-[wakatime](https://wakatime.com/dashboard/day?date=2019-05-29)
+[wakatime](https://wakatime.com/dashboard/day?date=2019-05-29)<br>
 [current_date_time.py](https://github.com/bekabug/learningpython/blob/master/current_date_time.py)
 
 ### Day 2: Tuesday May 28, 2019
@@ -40,8 +40,6 @@
 **Thoughts:** Not a struggle. I'm definitely better than "beginner".
 
 **Links to work:** 
-[wakatime](https://wakatime.com/dashboard/day?date=2019-05-27)
-
-[twinkle](https://github.com/bekabug/learningpython/blob/master/twinkle.py)
-
-[python_version](https://github.com/bekabug/learningpython/blob/master/python_version.py)
+[wakatime](https://wakatime.com/dashboard/day?date=2019-05-27)<br>
+[twinkle](https://github.com/bekabug/learningpython/blob/master/twinkle.py)<br>
+[python_version](https://github.com/bekabug/learningpython/blob/master/python_version.py)<br>
