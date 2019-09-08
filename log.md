@@ -1,5 +1,24 @@
 # 100 Days Of Code, Round 2 - Log
 
+### Day 5: September 8, 2019
+##### Give up or Keep Going
+
+It's amazing. I can tell you the exact email I got the day after my last commit to this. Once That started I began giving all my energy to That. I think I've given it enough of my 100%. I'm going to have to give it something like 60% now. I quit getting up at 4am to code/study. I couldn't bring myself to tackle it when I got home because my time with my husband and son is precious to me. Until we have cars that can drive me, I'm spending 10 hours a week commuting, 40 hours working, and _if I'm lucky_ 35 hours a week sleeping. **I need more sleep.**
+
+How do I make this work? I'm going to try this schedule this week and see how it goes:
+
+**4am** Wake up, have some coffee, get dressed<br>
+**4:30am** Go to the gym<br>
+**4:40-5:30am** Work Out<br>
+**5:40am-6am** Get ready to leave for work<br>
+**6am-7am** Drive to work<br>
+**7am-3:30pm** Work<br>
+**3:30pm-4:30pm** Drive to the library<br>
+**4:30pm-5:30pm** Code for an hour<br>
+**5:30pm** Go home, have dinner, relax until...<br>
+**8pm** Get ready for bed, hopefully asleep by 8:30-9p
+
+My coding exercise today just to get back into the swing of things was to roll through some _very_ simple FreeCodeCamp. Tomorrow my goal is to get back into my Django blog on Python Anywhere and share my python code. I might finish FreeCodeCamp during my lunch break. That's a reach, though. 
 
 ### Day 4: May 30, 2019
 ##### Math and Slice
